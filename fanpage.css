@@ -1,0 +1,54 @@
+.share-t{ float: right;
+    height: 50px;
+    width:50px ;
+
+
+}
+
+.share-i{ float: right ;
+    height: 50px;
+    width: 50px;
+
+}
+
+.social{
+
+}
+
+.menu-button{display: flex;
+    justify-content: space-around;
+
+
+}
+
+.menu{
+
+
+}
+
+.buttons{display: flex;
+justify-content: space-between;}
+
+.header1{width: 100px;
+    height: 20px;
+    padding-bottom: 50px;
+    background-color: blue;
+
+
+}
+
+.imgs{
+    height: 266px;
+    width: 300px;
+}
+
+.img-organizer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+
+}
+
+.adjust-border{
+    width:300px;
+}
